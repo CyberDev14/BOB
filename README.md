@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+Greeting and Help Offer:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The AI bot greets customers when they visit the website and asks if they need help finding clothes.
+Choosing a Category:
 
-## Available Scripts
+The AI bot asks the customer to pick a type of clothing they want, like dresses, tops, or skirts.
+The customer selects a category, for example, "dresses."
+Asking for Specific Preferences:
 
-In the project directory, you can run:
+The AI bot then asks if the customer is looking for something specific within that category, like a "party dress" or a "casual dress."
+The customer gives more details, such as "I'm looking for a floral summer dress."
+Finding Matches:
 
-### `npm start`
+The AI bot looks for dresses that match the customer's description by checking keywords like "floral" and "summer" in the product descriptions.
+Showing Recommendations:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The AI bot shows a list of dresses that match what the customer described.
+It includes details like price, sizes, and reviews to help the customer choose.
+Getting Feedback:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The AI bot asks if the customer likes the recommendations or wants to see more options.
+Based on the customer’s feedback, the AI bot can suggest more items or refine the current suggestions.
+Using Previous Orders:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If the customer has bought clothes before, the AI bot can suggest similar items based on their past orders.
+This way, the AI bot makes shopping easy and personalized, helping customers find the perfect clothes quickly and effortlessly.
