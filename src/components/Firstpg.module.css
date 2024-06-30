@@ -1,0 +1,16 @@
+.firstpage{
+    background-color: #ffecec;
+    height: 695px;
+    width: 1535px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .backgroundVideo {
+    height: 500px;
+    width: auto;
+    margin-top: 75px;
+    margin-left: 500px;
+  }
+  
